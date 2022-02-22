@@ -5,7 +5,7 @@ Olá! Este projeto, **Short Url**, faz parte de um desafio de construção simpl
 
 # Setup
 
-Este projeto utiliza Node como Backend e Vue no Frontend. Esta é uma aplicação desacoplata, por isso Backend e Frontend estão separados.
+Este projeto utiliza Node como Backend e Vue no Frontend. Esta é uma aplicação desacoplada, por isso Backend e Frontend estão separados.
 
 ## Backend
 
